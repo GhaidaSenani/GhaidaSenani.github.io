@@ -3,7 +3,7 @@ layout: page
 title: Metis Bootcamp Projects
 ---
 ## Project 1: Exploratory Data Analysis (EDA)
-![alt text](logo.png)
+![alt text](https://github.com/GhaidaSenani/GhaidaSenani.github.io/blob/master/images/logo.png)
 ### Problem Statement
 WomenTechWomenYes (WTWY) will be hosts an annual gala at the beginning of the summer. They try to do double duty with the gala both to fill the event space with individuals passionate about increasing the participation of women in technology. So, they proposed us to discover the proper times, days and stations in New York subways, to place teams at stations to reach the maximum amount of people.
 
