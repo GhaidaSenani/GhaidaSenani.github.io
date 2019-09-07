@@ -31,8 +31,8 @@ We have calculated the total traffic: Entries difference + Exits difference.
 ### Averrage Traffic Per hour During the weekends
 ![Average_Traffic_weekends]({{site.url}}/images/Average_Traffic_weekends.png)
 
-#### We Recommend  A DEKALB AV station in August and A BAYCHESTERIN May  at 2-4 PM During Weekdays
-####  We obtained zeros in the total traffic in some Stations , So we considered  the situation of some  closed stations on certain dates on the month of August, due to some maintenance services.
+#### We Recommend  A DEKALB AV station in August and A BAYCHESTER station in May  at 2-4 PM During Weekdays
+#####  We obtained zeros in the total traffic in some Stations , So we considered  the situation of some  closed stations on certain dates on the month of August, due to some maintenance services.
 
 
 
