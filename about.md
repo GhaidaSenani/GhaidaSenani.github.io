@@ -2,18 +2,20 @@
 layout: page
 title: About
 ---
+# About Me !
 
-<p class="message">
- 
-</p>
-
-
-
+### Information Systems Fresh Graduate 
+* LINKEDIN [Linkedin](www.linkedin.com/in/ghaidaalsenani)
+* TWITTER [Twitter](https://twitter.com/GhaidaAlsenani)
 
 
 
 
-## Setup
+
+
+
+
+
 
 
 
