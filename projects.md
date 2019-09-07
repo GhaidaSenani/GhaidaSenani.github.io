@@ -18,10 +18,10 @@ WomenTechWomenYes (WTWY) will be hosts an annual gala at the beginning of the su
 We have calculated the total traffic: Entries difference + Exits difference.
 
 ## Visuals
- ###Top five Stations based on Average traffic in May 
+ ### Top five Stations based on Average traffic in May 
 ![alt text](https://github.com/GhaidaSenani/GhaidaSenani.github.io/blob/master/images/MayTopAvgStations.png)
 
- ###Top five Stations based on Average traffic in August 
+ ### Top five Stations based on Average traffic in August 
 ![alt text](https://github.com/GhaidaSenani/GhaidaSenani.github.io/blob/master/images/AvgTopFiveStation.png)
 
 
