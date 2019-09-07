@@ -10,8 +10,6 @@ title: About
 
 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
 
 

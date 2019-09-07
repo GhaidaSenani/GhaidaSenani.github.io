@@ -10,7 +10,7 @@ baseurl:             ""
 
 # Assets
 #
-# We specify the directory for Jekyll so we can use @imports.
+# 
 sass:
   sass_dir:          _sass
   style:            :compressed
@@ -34,5 +34,5 @@ gems:
 # Page List
 pages_list:       
   About: '/about'
-  Archive: '/archive'
+ 
   Feed: '/index.html'
