@@ -6,7 +6,7 @@ title:               Ghaida Alsenani
 tagline:             
 url:                 http://GhaidaSenani.github.io
 paginate:            2
-baseurl:             ""
+baseurl:             "/cards"
 
 # Assets
 #
@@ -32,7 +32,8 @@ gems:
   - jekyll-gist
 
 # Page List
-pages_list:       
+pages_list:
+  Metis Bootcamp Projects: '/projects'       
   About: '/about'
- 
+
   Feed: '/index.html'
