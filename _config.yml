@@ -6,7 +6,7 @@ title:               Ghaida Alsenani
 tagline:             
 url:                 http://GhaidaSenani.github.io
 paginate:            2
-baseurl:             "/cards"
+baseurl:             ""
 
 # Assets
 #
@@ -14,6 +14,7 @@ baseurl:             "/cards"
 sass:
   sass_dir:          _sass
   style:            :compressed
+  theme:
 
 # About/contact
 author:
