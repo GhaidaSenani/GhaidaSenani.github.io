@@ -3,7 +3,7 @@ layout: page
 title: Metis Bootcamp Projects
 ---
 # Project 1: Exploratory Data Analysis (EDA)
-![logo](https://github.com/GhaidaSenani/GhaidaSenani.github.io/blob/master/images/logo.png)
+![logo](h{{site.url}}/images/logo.png)
 
 ## Problem Statement
 WomenTechWomenYes (WTWY) will be hosts an annual gala at the beginning of the summer. They try to do double duty with the gala both to fill the event space with individuals passionate about increasing the participation of women in technology. So, they proposed us to discover the proper times, days and stations in New York subways, to place teams at stations to reach the maximum amount of people.
@@ -22,10 +22,10 @@ We have calculated the total traffic: Entries difference + Exits difference.
 
 ## Visuals
 ### Top five Stations based on Average traffic in May 
-![MayTopAvgStations](https://github.com/GhaidaSenani/GhaidaSenani.github.io/blob/master/images/MayTopAvgStations.png)
+![MayTopAvgStations]({{site.url}}/images/MayTopAvgStations.png)
 ### Top five Stations based on Average traffic in August 
 
-![AvgTopFiveStation](https://github.com/GhaidaSenani/GhaidaSenani.github.io/blob/master/images/AvgTopFiveStation.png)
+![AvgTopFiveStation]({{site.url}}/images/AvgTopFiveStation.png)
 ####  We obtained zeros in the total traffic in some Stations , So we considered  the situation of some  closed stations on certain dates on the month of August, due to some maintenance services.
 
 
