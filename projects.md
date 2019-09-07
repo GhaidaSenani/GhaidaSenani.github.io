@@ -10,7 +10,7 @@ WomenTechWomenYes (WTWY) will be hosts an annual gala at the beginning of the su
 
 ## Data Acquisition 
 
- MTA, NYC subways data for two months  May , August 2019.	
+ MTA, NYC subways data for two months  May 'Before summer' , August 'Summer' 2019.	
 
 ## Data cleansing 
 
@@ -26,6 +26,12 @@ We have calculated the total traffic: Entries difference + Exits difference.
 ### Top five Stations based on Average traffic in August 
 
 ![AvgTopFiveStation]({{site.url}}/images/AvgTopFiveStation.png)
+### Averrage Traffic Per hour During the weekdays
+![Average_Traffic_wekdays]({{site.url}}/images/Average_Traffic_wekdays.png)
+### Averrage Traffic Per hour During the weekends
+![Average_Traffic_weekends]({{site.url}}/images/Average_Traffic_weekends.png)
+
+#### We Recommend  A DEKALB AV station in August and A BAYCHESTERIN May  at 2-4 PM During Weekdays
 ####  We obtained zeros in the total traffic in some Stations , So we considered  the situation of some  closed stations on certain dates on the month of August, due to some maintenance services.
 
 
