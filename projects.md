@@ -19,11 +19,11 @@ We have calculated the total traffic: Entries difference + Exits difference.
 
 ### Visuals
  ####Top five Stations based on Average traffic in May 
-![alt text](MayTopAvgStations.png)
+![alt text](https://github.com/GhaidaSenani/GhaidaSenani.github.io/blob/master/images/MayTopAvgStations.png)
 
  ####Top five Stations based on Average traffic in August 
-![alt text](AvgTopFiveStation.png)
-![placeholder](http://placehold.it/800x400 "Large example image")
+![alt text](https://github.com/GhaidaSenani/GhaidaSenani.github.io/blob/master/images/AvgTopFiveStation.png)
+
 
 ### We obtained zeros in the total traffic in some Stations , So we considered  the situation of some  closed stations on certain dates on the month of August, due to some maintenance services.
 
