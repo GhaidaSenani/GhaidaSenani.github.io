@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me !
 ---
-# About Me !
+
 
 ### Information Systems Fresh Graduate 
 * [Linkedin](https://www.linkedin.com/in/ghaidaalsenani/)
