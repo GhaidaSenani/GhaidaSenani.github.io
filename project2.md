@@ -72,22 +72,8 @@ In this stage, a set of models were built. Some models included some of  variabl
 ![plot.png]({{site.url}}/images/plot.png)
 
 ### Actual vs Predicted Values
-<<<<<<< HEAD
-
-![act_pre]({{site.url}}/images/act_pre  width="120" height="240")
 
 
-
-||||||| merged common ancestors
-
-![act_pre]({{site.url}}/images/act_pre)
+![act_pre]({{site.url}}/images/act_pre.png width="120" height="240")
 
 
-
-=======
-
-![act_pre]({{site.url}}/images/act_pre.png)
-
-
-
->>>>>>> 225dcde2468febbc22e1885938f8a9a389be7e1f

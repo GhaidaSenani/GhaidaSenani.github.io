@@ -3,7 +3,7 @@ layout: page
 title: Project 3
 ---
 ## Project 3: 
-![title]({{site.url}}/images/intro_crime)
+![title]({{site.url}}/images/intro_crime.png)
 ## Project Overview 
 
 This project analyzes 12(2003-2015) years of crime reports from across all of San Francisco's neighborhoods to create a model that predicts the violence Of crime  that occurred, given time and location.
@@ -16,7 +16,7 @@ San Francisco is a major city, so many visitors read about crime in San Francisc
 
 ## Workflow:
 
-![flow]({{site.url}}/images/flow3)
+![flow]({{site.url}}/images/flow3.png)
 
 ### 1.Data acquisition:
 This dataset contains 878,049K incidents derived from SFPD Crime Incident Reporting system. The data ranges from 1/1/2003 to 5/13/2015."This dataset is brought by SF OpenData, the central clearinghouse for data published by the City and County of San Francisco."
@@ -45,14 +45,14 @@ In this step, the outliers for X, Y  was removed to be  within the boundaries  o
 
 ### 3.Exploratory Data Analysis (EDA):
 The incidents per day figure shows the the volume seems to be fairly constant with slight bump upon the weekend  
-![The incidents per day ]({{site.url}}/images/inc_perday)
+![The incidents per day ]({{site.url}}/images/inc_perday.png)
 
 When looking at incidents per hour there is a reasonable dip in the sleep early morning hours between 1 -8 am , then picks up and holds steady. 
-![The incidents per hour ]({{site.url}}/images/violent_nonhour)
+![The incidents per hour ]({{site.url}}/images/violent_nonhour.png)
 
 The map shows the density of crimes in all districts in the city, Clearly, there are significant variations between the different districts of the City with the Southern district having the most incidents followed by Mission and Northern.
 
-![Map]({{site.url}}/images/mapp3)
+![Map]({{site.url}}/images/mapp3.png)
 
 
 ### 4.Building models:  
@@ -63,11 +63,11 @@ Use Random Under sampling technique for the imbalance class and Split the Dates 
 RandomForest Classifier has been selected with hyperparameters : n_estimators = 100 , Max Depth =4 , with accuracy =0.94 and recall =0.67
 
 #### 5.2 Confusion matrix
-![con_matrix]({{site.url}}/images/con_matrix)
+![con_matrix]({{site.url}}/images/con_matrix.png)
 
 #### 5.3 ROC 
 The Model perform well , the curve is great near to 1
-![ROC]({{site.url}}/images/Roc_p3)
+![ROC]({{site.url}}/images/Roc_p3.png)
 
 
 
