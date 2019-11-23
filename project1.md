@@ -3,6 +3,7 @@ layout: page
 
 ---
 # Project 1: Exploratory Data Analysis (EDA)
+
 ![logo]({{site.url}}/images/logo.png)
 
 ## Problem Statement

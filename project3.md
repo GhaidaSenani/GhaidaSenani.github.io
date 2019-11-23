@@ -2,7 +2,7 @@
 layout: page
 title: Project 3
 ---
-## Project 3: 
+
 ![title]({{site.url}}/images/intro_crime.png)
 ## Project Overview 
 

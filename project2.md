@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Project 2
+
 ---
  
 ![title]({{site.url}}/images/predict.png)
+
 ## Project Overview and objectives: 
+
 Is about scraping a website to acquire data, subsequent building a linear regression model to make predictions.
 ### objectives: 
 + Scrape a Times Higher Education Website using python and Selenium library.
@@ -74,6 +76,6 @@ In this stage, a set of models were built. Some models included some of  variabl
 ### Actual vs Predicted Values
 
 
-![act_pre]({{site.url}}/images/act_pre.png width="120" height="240")
+![act_pre]({{site.url}}/images/act_pre.png width=120 height=240)
 
 
