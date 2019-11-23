@@ -70,13 +70,19 @@ I picked a Saree from Kalki Fashion website that cost 290 $
 ![same_input.png]({{site.url}}/images/same_input.png)
 What I remarked when using the cosine and euclidian similarities for the same input image that, the cosine recommends a better match with the cut/style, whether the euclidian recommends better match colors.
 
-{data-background="background.jpg"}
 
 <style>
-{
+body{
   background-image: url('background.jpg');
  background-image: url("background.jpg")
 data-background="background.jpg";
+}
+</style>
+<style>
+{
+  background-image: url('background.jpg');
+  background-image: url("background.jpg")
+  data-background="background.jpg";
 }
 </style>
 
