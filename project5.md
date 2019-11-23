@@ -59,7 +59,7 @@ Converted images into a feature matrix. To calculate the cosine similarity, then
 #### Demo
 I picked a Saree from Kalki Fashion website that cost 290 $
 
-![sarees.png]({{site.url}}/images/sareedemo.mov)
+![sarees.png]({{site.url}}/images/sarees.png)
 
 
 ![Watch the video]({{site.url}}/images/sareedemo.mov)
