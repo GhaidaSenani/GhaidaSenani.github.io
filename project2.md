@@ -76,6 +76,6 @@ In this stage, a set of models were built. Some models included some of  variabl
 ### Actual vs Predicted Values
 
 
-![act_pre]({{site.url}}/images/act_pre.png){:height="36px" width="36px"}.
+![act_pre]({{site.url}}/images/act_pre.png){:height="300px" width="250px"}
 
 
