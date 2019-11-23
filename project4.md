@@ -12,7 +12,7 @@ Natural Language Processing AND Sentiments Analysisof Disney tweets
 The Walt Disney Company is a productive powerhouse of a multinational corporation, As with most businesses that they have a vested curiosity in estimating how their customers and the public feeling about the services that they provide, and the products that they produce, but obtaining that information, whether through in-person, over the phone, or  surveys, cost money and time to create, distribute, gather, and analyze. Therefore, I am interested to observe if I use Natural Language Processing (NLP) tools and unsupervised machine learning to assess public opinion of Disney at a minimal cost.
 
 
-![flow](https://media.giphy.com/media/k4ZItrTKDPnSU/giphy.gif){:height="900px"}
+![flow](https://media.giphy.com/media/k4ZItrTKDPnSU/giphy.gif){:width="900px"}
 
 
 ### Data acquisition
