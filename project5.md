@@ -46,7 +46,7 @@ The project is comprised of two main parts:
 In this step,used convolutional neural network (CNN) to predict clothing category
 The model was trained with the training dataset for 3 convolutions layers ,2 dense layers ,dropout of 0.5
 
-![cnn_model.png]({{site.url}}/images/cnn_model.png =250x)
+![cnn_model.png]({{site.url}}/images/cnn_model.png)
 
 The Accuracy: 89%
 
@@ -57,11 +57,14 @@ After the classification, I extract  the output of the second fully connected la
 Converted images into a feature matrix. To calculate the cosine similarity, then, selected the top 3 images with the largest cosine as the recommendations. and calculate the  Euclidian similarity, then selected the top 3 images with the smallest Euclidian similarities as the recommendations.
 
 #### 3.2.1 Demo
-I picked a Saree from Kalki Fashion website that cost 290 $
+
 
 ![sarees.png]({{site.url}}/images/sarees.png)
 
-#### 3.2.1 Demo
+I picked a Saree from Kalki Fashion website that cost 290 $
+
+
+
 ![Watch the video]({{site.url}}/images/sareedemo.mov)
 
 ![same_input.png]({{site.url}}/images/same_input.png)
