@@ -74,7 +74,8 @@ What I remarked when using the cosine and euclidian similarities for the same in
 
 <style>
 {
- Background-image: url('background.jpg');
+  background-image: url('background.jpg');
+ background-image: url("background.jpg")
 data-background="background.jpg";
 }
 </style>
