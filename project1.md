@@ -1,6 +1,6 @@
 ---
 layout: page
-WomenTechWomenYes EDA
+title: WomenTechWomenYes EDA
 ---
 
 
