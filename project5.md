@@ -46,11 +46,11 @@ The project is comprised of two main parts:
 In this step,used convolutional neural network (CNN) to predict clothing category
 The model was trained with the training dataset for 3 convolutions layers ,2 dense layers ,dropout of 0.5
 
-![cnn_model.png]({{site.url}}/images/cnn_model.png)
+![cnn_model]({{site.url}}/images/cnn_model.png){:height="600px" width="500px"}
 
 The Accuracy: 89%
 
-![cnn_model.png]({{site.url}}/images/p5_trainacc.png)
+![cnn_model]({{site.url}}/images/p5_trainacc.png)
 
 ### 3.2 Recommendations:
 After the classification, I extract  the output of the second fully connected layer as features .
@@ -59,7 +59,7 @@ Converted images into a feature matrix. To calculate the cosine similarity, then
 #### 3.2.1 Demo
 
 
-![sarees.png]({{site.url}}/images/sarees.png)
+![sarees]({{site.url}}/images/sarees.png)
 
 I picked a Saree from Kalki Fashion website that cost 290 $
 
