@@ -12,7 +12,8 @@ social-github: GhaidaSenani # add your Github handle
 social-linkedin: ghaidaalsenani # add your Linkedin handle
 social-email: ghaidasenani@gmail.com # add your Email address
 
-
+# Tracker
+analytics: # Google Analytics
 # Build Settings
 markdown: kramdown
 plugins:
