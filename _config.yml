@@ -3,13 +3,13 @@ title: Hello, world! I'm Ghaida
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ghaidasenani.github.io # the base hostname & protocol for your site, e.g
-site-twitter: https://twitter.com/ghaidaalsenani 
+site-twitter: ghaidaalsenani 
 
 author-img: IMG_9677.JPG # add your photo
 about-author:  Always hungry to keep learning. # add description
-social-twitter:https://twitter.com/ghaidaalsenani 
-social-github: https://github.com/GhaidaSenani # add your Github handle
-social-linkedin: https://sa.linkedin.com/in/ghaidaalsenani # add your Linkedin handle
+social-twitter: ghaidaalsenani 
+social-github: GhaidaSenani # add your Github handle
+social-linkedin: ghaidaalsenani # add your Linkedin handle
 social-email: ghaidasenani@gmail.com # add your Email address
 
 
