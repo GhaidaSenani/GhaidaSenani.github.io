@@ -6,8 +6,7 @@ date: 2019-10-10
 img: intro_crime.png # Add image post (optional)
 ---
 
- 
-![title]({{site.url}}/assets/img/intro_crime.png)
+
 ## Project Overview 
 
 This project analyzes 12(2003-2015) years of crime reports from across all of San Francisco's neighborhoods to create a model that predicts the violence Of crime  that occurred, given time and location.
@@ -52,6 +51,7 @@ The incidents per day figure shows the the volume seems to be fairly constant wi
 ![The incidents per day ]({{site.url}}/assets/img/inc_perday.png)
 
 When looking at incidents per hour there is a reasonable dip in the sleep early morning hours between 1 -8 am , then picks up and holds steady. 
+
 ![The incidents per hour ]({{site.url}}/assets/img/violent_nonhour.png)
 
 The map shows the density of crimes in all districts in the city, Clearly, there are significant variations between the different districts of the City with the Southern district having the most incidents followed by Mission and Northern.
@@ -71,4 +71,6 @@ RandomForest Classifier has been selected with hyperparameters : n_estimators = 
 
 #### 5.3 ROC 
 The Model perform well , the curve is great near to 1
+
+
 ![ROC]({{site.url}}/assets/img/Roc_p3.png)
