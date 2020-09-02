@@ -1,9 +1,10 @@
 ---
-layout: page
-title: WomenTechWomenYes EDA
-date: 2019-09 13:32:20 +0300
----
+layout: post
+title: "WomenTechWomenYes EDA"
+date: 2019-09-06
 
+img: logo.png # Add image post (optional)
+---
 
 ![logo]({{site.url}}/assets/img/logo.png)
 
@@ -34,12 +35,5 @@ We have calculated the total traffic: Entries difference + Exits difference.
 ![Average_Traffic_weekends]({{site.url}}/assets/img/Average_Traffic_weekends.png)
 
 #### We Recommend  A DEKALB AV station in August and A BAYCHESTER station in May  at 2-4 PM During Weekdays
-#####  We obtained zeros in the total traffic in some Stations , So we considered  the situation of some  closed stations on certain dates on the month of August, due to some maintenance services.
-
-
-
-
-
-
-
+#####  We obtained zeros in the total traffic in some Stations , So we considered  the situation of some  closed stations on certain dates on the month of August, due to some maintenance services
 

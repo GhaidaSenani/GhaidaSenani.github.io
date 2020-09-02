@@ -1,9 +1,12 @@
 ---
-layout: page
+layout: post
+title: "Find IT ! - The Cheapest Alternative"
+date: 2019-11-20
 
+img: p5_tot.png# Add image post (optional)
 ---
 
-![title]({{site.url}}/images/p5_tot.png)
+![title]({{site.url}}//assets/img/p5_tot.png)
 
 ## Project Overview 
 
@@ -16,9 +19,9 @@ My project aims to recommend the more affordable alternatives to a designer outf
 
 ### 1.Data acquisition:
 
-![flow]({{site.url}}/images/Myntra-online-shopping.jpg)
+![flow]({{site.url}}/assets/img/Myntra-online-shopping.jpg)
 
-I Got my data set from my nrta .com is an Indian website  , contains 44447 images with their json file , from all departments , and 51  Categories.
+I Got the data set from my nrta .com is an Indian website  , contains 44447 images with their json files , from all departments , and 51  Categories.
 
 
 ### 2.Date preprocessing 
@@ -46,11 +49,11 @@ The project is comprised of two main parts:
 In this step,used convolutional neural network (CNN) to predict clothing category
 The model was trained with the training dataset for 3 convolutions layers ,2 dense layers ,dropout of 0.5
 
-![cnn_model]({{site.url}}/images/cnn_model.png){:height="600px" width="500px"}
+![cnn_model]({{site.url}}//assets/img/cnn_model.png){:height="600px" width="500px"}
 
 The Accuracy: 89%
 
-![cnn_model]({{site.url}}/images/p5_trainacc.png)
+![cnn_model]({{site.url}}//assets/img/p5_trainacc.png)
 
 ### 3.2 Recommendations:
 After the classification, I extract  the output of the second fully connected layer as features .
@@ -59,17 +62,20 @@ Converted images into a feature matrix. To calculate the cosine similarity, then
 #### 3.2.1 Demo
 
 
-![sarees]({{site.url}}/images/sarees.png)
+![sarees]({{site.url}}//assets/img/sarees.png)
+![sarees]({{site.url}}//assets/img/sarees_price.png)
+
 
 I picked a Saree from Kalki Fashion website that cost 290 $
 
 
 
-![Watch the video]({{site.url}}/images/sareedemo.mov)
+![Watch the video]({{site.url}}//assets/img/sareedemo.mov)
 
-![same_input.png]({{site.url}}/images/same_input.png)
+
 What I remarked when using the cosine and euclidian similarities for the same input image that, the cosine recommends a better match with the cut/style, whether the euclidian recommends better match colors.
 
+![same_input.png]({{site.url}}//assets/img/same_input.png)
 
 <style>
 body{
@@ -85,4 +91,3 @@ data-background="background.jpg";
   data-background="background.jpg";
 }
 </style>
-
