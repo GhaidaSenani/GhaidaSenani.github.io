@@ -77,17 +77,4 @@ What I remarked when using the cosine and euclidian similarities for the same in
 
 ![same_input.png]({{site.url}}//assets/img/same_input.png)
 
-<style>
-body{
-  background-image: url('background.jpg');
- background-image: url("background.jpg")
-data-background="background.jpg";
-}
-</style>
-<style>
-{
-  background-image: url('background.jpg');
-  background-image: url("background.jpg")
-  data-background="background.jpg";
-}
-</style>
+
