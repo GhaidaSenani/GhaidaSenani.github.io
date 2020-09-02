@@ -6,7 +6,7 @@ date: 2019-11-20
 img: p5_tot.png# Add image post (optional)
 ---
 
-![title]({{site.url}}//assets/img/p5_tot.png)
+
 
 ## Project Overview 
 
@@ -49,11 +49,11 @@ The project is comprised of two main parts:
 In this step,used convolutional neural network (CNN) to predict clothing category
 The model was trained with the training dataset for 3 convolutions layers ,2 dense layers ,dropout of 0.5
 
-![cnn_model]({{site.url}}//assets/img/cnn_model.png){:height="600px" width="500px"}
+![cnn_model]({{site.url}}/assets/img/cnn_model.png){:height="600px" width="500px"}
 
 The Accuracy: 89%
 
-![cnn_model]({{site.url}}//assets/img/p5_trainacc.png)
+![cnn_model]({{site.url}}/assets/img/p5_trainacc.png)
 
 ### 3.2 Recommendations:
 After the classification, I extract  the output of the second fully connected layer as features .
@@ -62,19 +62,25 @@ Converted images into a feature matrix. To calculate the cosine similarity, then
 #### 3.2.1 Demo
 
 
-![sarees]({{site.url}}//assets/img/sarees.png)
-![sarees]({{site.url}}//assets/img/sarees_price.png)
+![sarees]({{site.url}}/assets/img/sarees.png){:height="500px" width="550px"}
+
+
+![sarees]({{site.url}}/assets/img/sarees_price.png){:height="500px" width="550px"}
 
 
 I picked a Saree from Kalki Fashion website that cost 290 $
 
+<video width="320" height="240" controls>
+  <source src="assets/img/sareedemo.mov" type="video/mp4">
+</video>
+
+![Watch the video]({{site.url}}/assets/img/sareedemo.mov)
 
 
-![Watch the video]({{site.url}}//assets/img/sareedemo.mov)
 
+![same_input.png]({{site.url}}/assets/img/same_input.png)
 
 What I remarked when using the cosine and euclidian similarities for the same input image that, the cosine recommends a better match with the cut/style, whether the euclidian recommends better match colors.
 
-![same_input.png]({{site.url}}//assets/img/same_input.png)
 
 
