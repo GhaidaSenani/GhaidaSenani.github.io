@@ -6,8 +6,7 @@ date: 2019-09-18
 img: predict.png # Add image post (optional)
 ---
 
- 
-![title]({{site.url}}/assets/img/predict.png)
+
 
 ## Project Overview and objectives: 
 It is about scraping a website to acquire data, after that building a linear regression model to make predictions.
