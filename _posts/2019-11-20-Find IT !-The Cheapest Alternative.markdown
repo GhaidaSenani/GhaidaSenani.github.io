@@ -3,7 +3,8 @@ layout: post
 title: "Find IT ! - The Cheapest Alternative"
 date: 2019-11-20
 
-img: p5_tot.png# Add image post (optional)
+img: p5_tot.png 
+
 ---
 
 
@@ -71,16 +72,18 @@ Converted images into a feature matrix. To calculate the cosine similarity, then
 I picked a Saree from Kalki Fashion website that cost 290 $
 
 <video width="320" height="240" controls>
-  <source src="assets/img/sareedemo.mov" type="video/mp4">
+  <source src="/assets/img/sareedemo.mov" type="video/mp4">
 </video>
+
 
 ![Watch the video]({{site.url}}/assets/img/sareedemo.mov)
 
 
+What I remarked when using the cosine and euclidian similarities for the same input image that, the cosine recommends a better match with the cut/style, whether the euclidian recommends better match colors.
 
 ![same_input.png]({{site.url}}/assets/img/same_input.png)
 
-What I remarked when using the cosine and euclidian similarities for the same input image that, the cosine recommends a better match with the cut/style, whether the euclidian recommends better match colors.
+
 
 
 
