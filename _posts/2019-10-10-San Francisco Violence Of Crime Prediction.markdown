@@ -12,7 +12,7 @@ img: intro_crime.png # Add image post (optional)
 This project analyzes 12(2003-2015) years of crime reports from across all of San Francisco's neighborhoods to create a model that predicts the violence Of crime  that occurred, given time and location.
 
 ## Problem Statement :
-San Francisco is a major city, so many visitors read about crime in San Francisco and wonder just how safe it is to travel to. Visitors want to have a great experience when they travel to San Francisco. Crime is a social phenomenon, there will never be a society free from crime. Societies always look for a way to minimize it and prevent it, by predicting the violence of crime in San Francisco it will be less likely to occur by taking the necessary care for and with a few safeguards, people can enjoy the city without undue worry.
+San Francisco is a major city, so many visitors read about crime in San Francisco and wonder how safe it is to travel to. Visitors want to have a great experience when they travel to San Francisco. Crime is a social phenomenon; there will never be a society free from crime. Societies always look for a way to minimize it and prevent it, by predicting the violence of crime in San Francisco it will be less likely to occur by taking the necessary care for and with a few safeguards, people can enjoy the city without undue worry.
 
 
 
@@ -22,7 +22,7 @@ San Francisco is a major city, so many visitors read about crime in San Francisc
 ![flow]({{site.url}}//assets/img/flow3.png)
 
 ### 1.Data acquisition:
-This dataset contains 878,049K incidents derived from SFPD Crime Incident Reporting system. The data ranges from 1/1/2003 to 5/13/2015."This dataset is brought by SF OpenData, the central clearinghouse for data published by the City and County of San Francisco."
+This dataset contains 878,049 incidents derived from the SFPD Crime Incident Reporting system. The data ranges from 1/1/2003 to 5/13/2015."This dataset is brought by SF OpenData, the central clearinghouse for data published by the City and County of San Francisco."
 
 + Downloaded from: https://www.kaggle.com
 + Provided by: SF OpenData and Kaggle
@@ -60,8 +60,8 @@ The map shows the density of crimes in all districts in the city, Clearly, there
 
 
 ### 4.Building models:  
-In this step, Some Features Engineering has be done , Data Scaling using Min max scalar ,
-Use Random Under sampling technique for the imbalance class and Split the Dates field to :Year , Day , hours ,minutes and seconds.
+In this step, Some Features Engineering has to be done, Data Scaling using Min-max scalar,
+Use the Random Under sampling technique for the imbalance class and Split the Dates field to Year, Day, hours, minutes, and seconds.
 
 ### 5.Selecting Best models:
 RandomForest Classifier has been selected with hyperparameters : n_estimators = 100 , Max Depth =4 , with accuracy =0.94 and recall =0.67

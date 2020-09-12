@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Natural Language Processing AND Sentiments Analysis of Disney tweets"
+date: 2019-10-27
+
+img: ux.gif # Add image post (optional)
+---
+
+
+
+Being a part of the User experience and User interface unit training program for three weeks. It was an excellent opportunity full of creativity and inspiration. I leaned and gained new skills and concepts. Furthermore, I understood UX/UI concepts and processes. UX research method and empathy dimensions. Moreover, I created several personas, as shown below .
+
+![personas]({{site.url}}/assets/img/personas.png) ![persona]({{site.url}}/assets/img/persona.png)
+
+Personas are fictional or real characters that you create based on your research to present the different user types that might use your service. Also, creating a persona will help you to understand your users' needs, experiences, behaviors, and goals [1]. Subsequent, I sketched the user flows, "the path is taken by a prototypical user on a website or app to complete a task" [2], and wireframes" is a way to design a website or application service at the structural level" [3].
+
+
+
+![user flow]({{site.url}}/assets/img/flows.png) ![wireframe]({{site.url}}/assets/img/flows1.png)
+
+Subsequently, the interfaces were designed and prototyped, as shown below 
+![ui]({{site.url}}/assets/img/Picture1.png) ![ui]({{site.url}}/assets/img/Picture2.png) ![ui]({{site.url}}/assets/img/Picture3.png) 
+![ui]({{site.url}}/assets/img/Picture4.png) ![ui]({{site.url}}/assets/img/Picture5.png) ![ui]({{site.url}}/assets/img/Picture6.png) 
+Have a look at [User interfaces](https://xd.adobe.com/view/0994d048-9c18-4ff2-7f78-d56f7007da0c-7fa5/)
+
+
+
+
+
+## References 
++ [1]. The Interaction Design Foundation. (2019). Personas – A Simple Introduction. [online] Available at: https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them [Accessed 19 Aug. 2019].
+
++ [2]. Optimizely.com. (2019). User Flow. [online] Available at: https://www.optimizely.com/optimization-glossary/user-flow/ [Accessed 19 Aug. 2019].
+
++ [3]. Experience UX. (2019). What is wireframing? [online] Available at: https://www.experienceux.co.uk/faqs/what-is-wireframing/ [Accessed 19 Aug. 2019].
+
+
+
