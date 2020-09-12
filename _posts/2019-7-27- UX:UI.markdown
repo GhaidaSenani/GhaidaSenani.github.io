@@ -19,8 +19,11 @@ Personas are fictional or real characters that you create based on your research
 ![user flow]({{site.url}}/assets/img/flows.png) ![wireframe]({{site.url}}/assets/img/flows1.png)
 
 Subsequently, the interfaces were designed and prototyped, as shown below 
+
 ![ui]({{site.url}}/assets/img/Picture1.png) ![ui]({{site.url}}/assets/img/Picture2.png) ![ui]({{site.url}}/assets/img/Picture3.png) 
 ![ui]({{site.url}}/assets/img/Picture4.png) ![ui]({{site.url}}/assets/img/Picture5.png) ![ui]({{site.url}}/assets/img/Picture6.png) 
+
+
 Have a look at [User interfaces](https://xd.adobe.com/view/0994d048-9c18-4ff2-7f78-d56f7007da0c-7fa5/)
 
 
