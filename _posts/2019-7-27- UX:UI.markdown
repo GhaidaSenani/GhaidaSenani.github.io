@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Natural Language Processing AND Sentiments Analysis of Disney tweets"
-date: 2019-10-27
+title: "UX /UI"
+date: 2019-7-27
 
 img: ux.gif # Add image post (optional)
 ---
