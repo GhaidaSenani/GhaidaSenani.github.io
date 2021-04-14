@@ -9,7 +9,7 @@ img: intro_crime.png # Add image post (optional)
 
 ## Project Overview 
 
-This project analyzes 12(2003-2015) years of crime reports from across all of San Francisco's neighborhoods to create a model that predicts the violence Of crime  that occurred, given time and location.
+This project analyzes 12(2003-2015) years of crime reports from across all of San Francisco’s neighborhoods to create a model that predicts the violence Of crime that occurs at a given time and location.
 
 ## Problem Statement :
 San Francisco is a major city, so many visitors read about crime in San Francisco and wonder how safe it is to travel to. Visitors want to have a great experience when they travel to San Francisco. Crime is a social phenomenon; there will never be a society free from crime. Societies always look for a way to minimize it and prevent it, by predicting the violence of crime in San Francisco it will be less likely to occur by taking the necessary care for and with a few safeguards, people can enjoy the city without undue worry.
@@ -27,7 +27,7 @@ This dataset contains 878,049 incidents derived from the SFPD Crime Incident Rep
 + Downloaded from: https://www.kaggle.com
 + Provided by: SF OpenData and Kaggle
 
-+ Features: 
+### Features: 
 + Dates
 + Crime Category
 + Descript
