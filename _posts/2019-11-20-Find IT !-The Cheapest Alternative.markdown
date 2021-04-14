@@ -21,17 +21,19 @@ My project aims to recommend the more affordable alternatives to a designer outf
 
 ![flow]({{site.url}}/assets/img/Myntra-online-shopping.jpg)
 
-I Got the data set from my nrta .com is an Indian website  , contains 44447 images with their json files , from all departments , and 51  Categories.
+I got the dataset from mynrta.com is an Indian website  , contains 44,447 images with their JSON files , from all departments , and 51  Categories.
 
 
 ### 2.Date preprocessing 
 
-+ Extract features for each image from the json file .
-+ Convert Indian Rupee to Dollars $  .
-+ Limited to just 250$ and under.
-+ Just keep clothing departments images with 16 categories .
-+ Image Augmentations  for categories balance .
++ Extract features for each image from the JSON file.
++ Convert Indian Rupee to Dollars $.
++ Limit to just 250$ and under.
++ Include clothing departments images with 16 categories.
++ Image data augmentation is used for categories balance.
 + Resize and normalize all the images to the same size.
+
+
 
 
 
@@ -46,8 +48,7 @@ The project is comprised of two main parts:
 
 
 ### 3.1 CNN :  
-In this step, I used a convolutional neural network (CNN) to predict the clothing category.
-The model was trained with the training dataset for three convolutions layers, two dense layers, dropout of 0.5 .
+In this step, I used a convolutional neural network (CNN) to predict the clothing category. The model was trained with the training dataset for three convolutions layers, two dense layers,  and a dropout of 0.5 .
 
 ![cnn_model]({{site.url}}/assets/img/cnn_model.png){:height="600px" width="500px"}
 
@@ -56,8 +57,7 @@ The Accuracy: 89%
 ![cnn_model]({{site.url}}/assets/img/p5_trainacc.png)
 
 ### 3.2 Recommendations:
-After the classification, I extract the output of the second fully connected layer as features.
-Converted images into a feature matrix to calculate the cosine similarity, then selected the top 3 images with the largest cosine as the recommendations. And calculate the  Euclidian similarity, then selected the top 3 images with the smallest Euclidian similarities as the recommendations.
+After the classification, I extract the output of the second fully connected layer as features. Converted images into a feature matrix to calculate the cosine similarity, then recommends the top 3 images with the largest cosine. And calculate the Euclidian similarity, then recommends the top 3 images with the smallest Euclidian similarities.
 
 #### 3.2.1 Demo
 
